@@ -1,0 +1,10 @@
+C:\Users\HP 255\source\repos\Rajzprogram\bin\Debug\Rajzprogram.exe.config
+C:\Users\HP 255\source\repos\Rajzprogram\bin\Debug\Rajzprogram.exe
+C:\Users\HP 255\source\repos\Rajzprogram\bin\Debug\Rajzprogram.pdb
+C:\Users\HP 255\source\repos\Rajzprogram\obj\Debug\Rajzprogram.csprojAssemblyReference.cache
+C:\Users\HP 255\source\repos\Rajzprogram\obj\Debug\Rajzprogram.Form1.resources
+C:\Users\HP 255\source\repos\Rajzprogram\obj\Debug\Rajzprogram.Properties.Resources.resources
+C:\Users\HP 255\source\repos\Rajzprogram\obj\Debug\Rajzprogram.csproj.GenerateResource.cache
+C:\Users\HP 255\source\repos\Rajzprogram\obj\Debug\Rajzprogram.csproj.CoreCompileInputs.cache
+C:\Users\HP 255\source\repos\Rajzprogram\obj\Debug\Rajzprogram.exe
+C:\Users\HP 255\source\repos\Rajzprogram\obj\Debug\Rajzprogram.pdb
